@@ -14,6 +14,12 @@ The application implements a classical **Caesar Cipher** variation operating on 
 2. Every other character is shifted ahead by **3 positions** in the ASCII table during encryption.
 3. Decryption shifts characters backward by **3 positions** to reveal the original message.
 
+## ❓ How to use it
+
+* Open you preferred code editor (e.g Python IDLE) and create a new Python file.
+* paste the Python Script (`python_encryptor.py`) into the editor and save it.
+* Now run the code and enjoy!
+
 ## 🔒 Security & Privacy
 
 * **100% Offline:** This application runs entirely on your local machine. It does not connect to the internet, track data, or send your messages anywhere.
